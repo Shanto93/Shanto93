@@ -1,9 +1,13 @@
+![Shanta islam photo](https://github.com/Shanto93/Shanto93/blob/main/2.png)
+
 <h1 align="center">Hi 👋, I'm Shanta Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanto93&label=Profile%20views&color=0e75b6&style=flat" alt="shanto93" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanto93" alt="shanto93" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **HTML,CSS,Tailwind CSS,Bootstrap,Vanilla JavaScript,React JS,Node JS,Express JS,Material UI,Next JS**
 
