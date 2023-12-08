@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanto93" alt="shanto93" /></a> </p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Shanto93/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Shanto93/langs?time_range=one_year&use_percent=True&theme=dark)](https://githubtrends.io)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Shanto93/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
 
@@ -18,13 +18,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanto93&label=Profile%20views&color=0e75b6&style=flat" alt="shanto93" /> </p>
 
 ## Current Overview
-- 🌱 I’m currently learning **HTML,CSS,Tailwind CSS,Bootstrap,Vanilla JavaScript,React JS,Node JS,Express JS,Material UI,Next JS**
+- 🌱 I have learned **HTML,CSS,Tailwind CSS,Bootstrap,Vanilla JavaScript,React JS,Node JS,Express JS,MongoDB,Firebase,Material UI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shanto93](https://github.com/Shanto93)
+- 📄 I am exploring - Backend technologies.
 
-- 📫 How to reach me **shantoislam7363@gmail.com**
+- 📫 I am looking - To collaborate on open source projects.
 
-- 📄 I am learning 
+- 👨‍💻 Fun Fact - I love to explore new things and i can speak 3 languages.
+
 
 ## Connect with me
 <p align="left">
