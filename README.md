@@ -6,7 +6,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3> -->
 
 ## Preview
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shanto93&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shanto93&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ## Trophy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanto93" alt="shanto93" /></a> </p>
