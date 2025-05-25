@@ -14,13 +14,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanto93&label=Profile%20views&color=0e75b6&style=flat" alt="shanto93" /> </p>
 
 ## Current Overview
-- 🌱 I have learned **HTML,CSS,Tailwind CSS,Bootstrap,Vanilla JavaScript,React JS,Node JS,Express JS,MongoDB,Firebase,Material UI**
+- I have learned **HTML,CSS,Tailwind CSS,Bootstrap,Vanilla JavaScript,React JS,Node JS,Express JS,MongoDB,Firebase,Material UI**
 
-- 📄 I am exploring - Backend technologies.
+- I am exploring - Backend technologies.
 
-- 👯 I am looking - To collaborate on open source projects.
+- I am looking - To collaborate on open source projects.
 
-- 👨‍💻 Fun Fact - I love to explore new things and i can speak 3 languages.
+- Fun Fact - I love to explore new things and i can speak 3 languages.
 
 
 ## Connect with me
